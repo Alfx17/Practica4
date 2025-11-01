@@ -107,6 +107,7 @@ Las aplicaciones nativas se desarrollan específicamente para un sistema operati
     </th>
   </tr>
 </table>
+<div align=center>
 <table style="margin-left: auto; margin-right: auto;">
   <tr>
     <th colspan="4" style="text-align: center;">Visualización de imagenes</th>
@@ -120,7 +121,8 @@ Las aplicaciones nativas se desarrollan específicamente para un sistema operati
     </th>
   </tr>
 </table>
-
+</div>
+<div align=center>
 <table style="margin-left: auto; margin-right: auto;">
   <tr>
     <th colspan="4" style="text-align: center;">Visualización de xml</th>
@@ -134,6 +136,8 @@ Las aplicaciones nativas se desarrollan específicamente para un sistema operati
     </th>
   </tr>
 </table>
+</div>
+<div align=center>
 <table style="margin-left: auto; margin-right: auto;">
   <tr>
     <th colspan="4" style="text-align: center;">Compartir o visualizar archivos con otras aplicaciones</th>
@@ -147,7 +151,7 @@ Las aplicaciones nativas se desarrollan específicamente para un sistema operati
     </th>
   </tr>
 </table>
-
+</div>
 ---
 
 ## Estado de la tarea
