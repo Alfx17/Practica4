@@ -1,0 +1,42 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Practica4" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/ipn_primary</item>
+        <item name="colorPrimaryVariant">@color/ipn_primary_variant</item>
+        <item name="colorOnPrimary">@color/ipn_on_primary</item>
+        <item name="colorSecondary">@color/ipn_secondary</item>
+        <item name="colorOnSecondary">@color/ipn_on_secondary</item>
+        <item name="android:colorBackground">@color/ipn_background</item>
+        <item name="colorSurface">@color/ipn_surface</item>
+        <item name="colorOnSurface">@color/ipn_on_surface</item>
+
+    </style>
+    
+    <style name="Theme.Practica4.IPN" parent="Base.Theme.Practica4">
+        <item name="colorPrimary">@color/ipn_primary</item>
+        <item name="colorPrimaryVariant">@color/ipn_primary_variant</item>
+        <item name="colorOnPrimary">@color/ipn_on_primary</item>
+        <item name="colorSecondary">@color/ipn_secondary</item>
+        <item name="colorOnSecondary">@color/ipn_on_secondary</item>
+        <item name="android:colorBackground">@color/ipn_background</item>
+        <item name="colorSurface">@color/ipn_surface</item>
+        <item name="colorOnSurface">@color/ipn_on_surface</item>
+    </style>
+
+    <style name="Theme.Practica4.ESCOM" parent="Base.Theme.Practica4">
+        <item name="colorPrimary">@color/escom_primary</item>
+        <item name="colorPrimaryVariant">@color/escom_primary_variant</item>
+        <item name="colorOnPrimary">@color/escom_on_primary</item>
+        <item name="colorSecondary">@color/escom_secondary</item>
+        <item name="colorOnSecondary">@color/escom_on_secondary</item>
+        <item name="android:colorBackground">@color/escom_background</item>
+        <item name="colorSurface">@color/escom_surface</item>
+        <item name="colorOnSurface">@color/escom_on_surface</item>
+    </style>
+
+    <style name="Theme.Practica4" parent="Base.Theme.Practica4" />
+
+
+
+</resources>
