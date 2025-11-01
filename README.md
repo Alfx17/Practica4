@@ -62,9 +62,13 @@ Las aplicaciones nativas se desarrollan específicamente para un sistema operati
   <tr>
     <th>Modo guinda</th>
     <th>Modo azul</th>
-    <th>Oscuro</th>
+    <th>Oscuro guinda</th>
+    <th>Oscuro azul</th>
   </tr>
   <tr>
+    <th>
+      <img src="img/f0.jpeg" alt="Prueba" width="300" />
+    </th>
     <th>
       <img src="img/f1.jpeg" alt="Prueba" width="300" />
     </th>
@@ -89,7 +93,7 @@ Las aplicaciones nativas se desarrollan específicamente para un sistema operati
 <p align="justify">La aplicación está diseñada con una arquitectura basada en activity's y fragmentos. Cada que el usuario quiera navegar a una nueva carpeta, se activara un activity que le permitirá visualizar los archivos que contiene dicha carpeta. Si se trata de imagenes, se visualizaran y se podrá hacer zoom, pero si son archivos, se mostraran sólo algunos de ellos, ya que la aplicación no puede abrir cierto tipo de archivos.</p>
 <table style="margin-left: auto; margin-right: auto;">
   <tr>
-    <th colspan="4" style="text-align: center;">Uso</th>
+    <th colspan="4" style="text-align: center;">Visualización de archivos</th>
   </tr>
   <tr>
     <th>
@@ -101,8 +105,45 @@ Las aplicaciones nativas se desarrollan específicamente para un sistema operati
     <th>
       <img src="img/f6.jpeg" alt="Prueba" width="300" />
     </th>
+  </tr>
+</table>
+<table style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <th colspan="4" style="text-align: center;">Visualización de imagenes</th>
+  </tr>
+  <tr>
     <th>
       <img src="img/f7.jpeg" alt="Prueba" width="300" />
+    </th>
+    <th>
+      <img src="img/f8.jpeg" alt="Prueba" width="300" />
+    </th>
+  </tr>
+</table>
+
+<table style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <th colspan="4" style="text-align: center;">Visualización de xml</th>
+  </tr>
+  <tr>
+    <th>
+      <img src="img/f9.jpeg" alt="Prueba" width="300" />
+    </th>
+    <th>
+      <img src="img/f10.jpeg" alt="Prueba" width="300" />
+    </th>
+  </tr>
+</table>
+<table style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <th colspan="4" style="text-align: center;">Compartir o visualizar archivos con otras aplicaciones</th>
+  </tr>
+  <tr>
+    <th>
+      <img src="img/f11.jpeg" alt="Prueba" width="300" />
+    </th>
+    <th>
+      <img src="img/f12.jpeg" alt="Prueba" width="300" />
     </th>
   </tr>
 </table>
